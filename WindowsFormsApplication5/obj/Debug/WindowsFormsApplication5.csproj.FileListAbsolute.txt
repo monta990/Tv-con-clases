@@ -1,0 +1,56 @@
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\panchoman\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Panchoman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Panchoman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Panchoman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panchoman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Panchoman\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\Desktop\PROYECTOS\TV\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\monta\Downloads\TV con clase\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\monta\Downloads\prog pendientes\TV con clase\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
